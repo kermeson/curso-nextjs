@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --area-porta-altura: 310px;
+  --area-porta-largura: 200px;
+}
+
+body {
+  color: white;
+  background-color: gray;
+}
+
+* {
+  box-sizing: border-box;
+}
